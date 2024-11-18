@@ -1,0 +1,19 @@
+{
+    "name": "khouloudhaddad/performance-counter",
+    "description": "Package for demo purposes",
+    "autoload": {
+        "psr-4": {
+            "Khouloudhaddad\\PerformanceCounter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khouloud Haddad Amamou",
+            "email": "khouloud.haddad@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
