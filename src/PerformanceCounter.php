@@ -1,4 +1,5 @@
 <?php
+namespace Khouloudhaddad\PerformanceCounter;
 
 final class PerformanceCounter
 {
